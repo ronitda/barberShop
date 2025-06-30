@@ -11,7 +11,7 @@
 
 ## 📸 Demo Screenshot
 
-![Desktop Demo](./readme-images/desktop.png)
+![Desktop Demo](./readme-images/Hero.png)
 
 ## 🚀 Getting Started
 
