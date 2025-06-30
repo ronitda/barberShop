@@ -1,54 +1,59 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/barber)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/barber?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/barber?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/pIgMTd8ZFxY?style=social)](https://youtu.be/pIgMTd8ZFxY)
+# Barber Shop
 
-  <br />
-  <br />
+[![Repo Size](https://img.shields.io/github/repo-size/ronitda/barber-shop)](https://github.com/ronitda/barber-shop)
+[![Stars](https://img.shields.io/github/stars/ronitda/barber-shop?style=social)](https://github.com/ronitda/barber-shop/stargazers)
+[![Forks](https://img.shields.io/github/forks/ronitda/barber-shop?style=social)](https://github.com/ronitda/barber-shop/network)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ronitda?style=social)](https://twitter.com/intent/follow?screen_name=ronitda)
 
-  <h2 align="center">Barber - Barber Website</h2>
+## 📘 Project Overview
 
-  Barber is a fully responsive barber website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+**Barber Shop** is a fully responsive barber website template designed to showcase services, pricing, team, and appointment booking. Built with **HTML**, **CSS**, and **JavaScript**, it works seamlessly across desktop, tablet, and mobile devices.
 
-  <a href="https://codewithsadee.github.io/barber/"><strong>➥ Live Demo</strong></a>
+## 📸 Demo Screenshot
 
-</div>
+![Desktop Demo](./readme-images/desktop.png)
 
-<br />
-
-### Demo Screeshots
-
-![Barber Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## 🚀 Getting Started
 
 ### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+* Git installed on your system: [Download Git](https://git-scm.com/downloads)
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### Installation
 
-### Run Locally
+1. Clone the repo:
 
-To run **Barber** locally, run this command on your git bash:
+   ```bash
+   git clone https://github.com/ronitda/barber-shop.git
+   cd barber-shop
+   ```
+2. Open `index.html` in your browser or serve via a local server:
 
-Linux and macOS:
+   ```bash
+   # Using Python 3.x
+   python -m http.server 8000
+   # then visit http://localhost:8000
+   ```
 
-```bash
-sudo git clone https://github.com/codewithsadee/barber.git
+## 🛠️ Technologies Used
+
+* **HTML5**
+* **CSS3** (Flexbox, Grid)
+* **JavaScript (ES6+)**
+
+## 📂 Project Structure
+
+```
+barber-shop/
+├─ assets/
+├─ readme-images/
+├─ index.html
+└─ style.css
 ```
 
-Windows:
+## 📬 Contact
 
-```bash
-git clone https://github.com/codewithsadee/barber.git
-```
+Follow me on [Twitter](https://twitter.com/ronitda) or open an issue on GitHub for questions.
 
-### Contact
+---
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
