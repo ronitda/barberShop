@@ -24,7 +24,7 @@
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/ronitda/barber-shop.git
+   git clone https://github.com/ronitda/barberShop.git
    cd barber-shop
    ```
 2. Open `index.html` in your browser or serve via a local server:
@@ -41,19 +41,7 @@
 * **CSS3** (Flexbox, Grid)
 * **JavaScript (ES6+)**
 
-## 📂 Project Structure
 
-```
-barber-shop/
-├─ assets/
-├─ readme-images/
-├─ index.html
-└─ style.css
-```
-
-## 📬 Contact
-
-Follow me on [Twitter](https://twitter.com/ronitda) or open an issue on GitHub for questions.
 
 ---
 
